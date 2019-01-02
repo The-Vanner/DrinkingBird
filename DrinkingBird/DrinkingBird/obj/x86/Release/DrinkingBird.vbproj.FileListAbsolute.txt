@@ -1,0 +1,17 @@
+C:\AaronVan\DrinkingBird\DrinkingBird\bin\Release\DrinkingBird.exe.config
+C:\AaronVan\DrinkingBird\DrinkingBird\bin\Release\DrinkingBird.exe
+C:\AaronVan\DrinkingBird\DrinkingBird\bin\Release\DrinkingBird.pdb
+C:\AaronVan\DrinkingBird\DrinkingBird\bin\Release\DrinkingBird.xml
+C:\AaronVan\DrinkingBird\DrinkingBird\obj\x86\Release\DrinkingBird.Form1.resources
+C:\AaronVan\DrinkingBird\DrinkingBird\obj\x86\Release\DrinkingBird.Resources.resources
+C:\AaronVan\DrinkingBird\DrinkingBird\obj\x86\Release\DrinkingBird.vbproj.GenerateResource.Cache
+C:\AaronVan\DrinkingBird\DrinkingBird\obj\x86\Release\DrinkingBird.exe
+C:\AaronVan\DrinkingBird\DrinkingBird\obj\x86\Release\DrinkingBird.xml
+C:\AaronVan\DrinkingBird\DrinkingBird\obj\x86\Release\DrinkingBird.pdb
+C:\AaronVan\DrinkingBird\DrinkingBird\bin\Release\System.Xml.Linq.dll
+C:\AaronVan\DrinkingBird\DrinkingBird\obj\x86\Release\DrinkingBird.Form2.resources
+C:\AaronVan\DrinkingBird\DrinkingBird\obj\x86\Release\Interop.Shell32.dll
+C:\AaronVan\DrinkingBird\DrinkingBird\obj\x86\Release\DrinkingBird.vbproj.ResolveComReference.cache
+C:\AaronVan\DrinkingBird\DrinkingBird\bin\Release\Microsoft.Lync.Model.dll
+C:\AaronVan\DrinkingBird\DrinkingBird\bin\Release\Microsoft.Office.Uc.dll
+C:\AaronVan\DrinkingBird\DrinkingBird\bin\Release\Microsoft.Lync.Model.xml

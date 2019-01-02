@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Policies\Communicator]
+"CustomStateURL"="file:///c:/AaronVan/Group_1_Pres.xml"
+"EnableSIPHighSecurityMode"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\ISSUSER]
+"Start"=dword:3

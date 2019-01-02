@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<customStates xmlns="http://schemas.microsoft.com/09/2005/communicator/customStates" 
+
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+
+xsi:schemaLocation="http://schemas.microsoft.com/09/2005/communicator/customStates
+http://livecommteam/sites/main/ice/Wave%2012%20Docs/CustomActivities.xsd">
+
+  <customState ID="1" availability="online">
+    <activity LCID="1033">I can chat</activity>
+  </customState>
+  <customState ID="2" availability="busy">
+    <activity LCID="1033">In another meeting</activity>
+  </customState>
+  <customState ID="3" availability="busy">
+    <activity LCID="1033">Leave a message</activity>
+  </customState>
+  <customState ID="4" availability="do-not-disturb">
+    <activity LCID="1033">Focused</activity>
+  </customState></customStates>
